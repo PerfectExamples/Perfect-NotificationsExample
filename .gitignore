@@ -63,3 +63,12 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
+
+.DS_Store
+*.p8
+*.pem
+*.cer
+*.p12
+Packages/
+buildlinux
+Perfect-NotificationsExample.xcodeproj/
